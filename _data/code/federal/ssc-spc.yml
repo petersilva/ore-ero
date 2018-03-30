@@ -1,0 +1,33 @@
+--- 
+adminCode: ssc-spc
+releases: 
+  - 
+    contact: 
+      email: peter.silva@canada.ca
+    description: 
+      en: "Meteorological Product Exchanger"
+      fr: "L´échangeur de produits météorologique"
+    languages: 
+      - Python
+    name: 
+      en: MetPX
+      fr: MetPX
+    permissions: 
+      licenses: 
+        - 
+          URL: 
+            en: "https://github.com/MetPX/sarracenia/blob/master/LICENSE"
+            fr: "https://github.com/MetPX/sarracenia/blob/master/LICENSE"
+          name: GPL-2.0
+    repositoryURL: 
+      en: "https://github.com/MetPX"
+      fr: "https://framagit.org/MetPX"
+    tags: 
+      en: 
+        - data transfer
+        - WMO GTS 
+      fr: 
+        - transfert de données
+        - STM OMM
+    vcs: git
+    version: "2.18"
